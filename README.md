@@ -1,10 +1,10 @@
-![MasterHead](https://image.shutterstock.com/image-vector/banner-devops-concept-software-engineering-260nw-1294636315.jpg)
+![MasterHead](https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif)
 <br>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SK Rohan Ali
 ====================================================================================================================================
 Devops engineer
 ---------------
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="justify">
 I have a good working knowledge on Devops tools and AWS services. Good hand on experience various AWS services like EC2,VPC,EFS,Bill management,S3 bucket etc. I also have experience of working GIT and GitHub, Chef, Docker, terraform ,Ansible. I have knowledge on Linux and shell-scripting . I also knowledge on working in software development life cycle across a wide variety of business and operational system . I consider myself to be highly motivated and able to handle a broad range of tasks, have good cooperating and team orientated.
 
