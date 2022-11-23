@@ -10,7 +10,7 @@ I have a good working knowledge on Devops tools and AWS services. Good hand on e
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [skrohanali786@gmail.com](mailto:skrohanali786@gmail.com)
-* 🧠  I'm learning new Devops tools
+* 🧠  I'm learning new Devops tools like Docker,Ansible,CHEF. Knowledge on Git and Shell- Scripting.
 * 🤝  I'm open to collaborating on I am open to collaborating on Devops tools as well as AWS, Shell-scripting skills.
 
 <a href="https://www.github.com/SKROHANALI" target="_blank" rel="noreferrer"><img
